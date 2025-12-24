@@ -22,7 +22,7 @@ This project implements a Convolutional Neural Network (CNN) to detect COVID-19 
 
 2. **Download the Datasets:**
 The image datasets are not included in this repository due to their size. You must download the data manually from Kaggle:
-* **Dataset Link:** [COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
+* **Dataset Link:** [COVID-19 Radiography Database](https://www.kaggle.com/competitions/csc532/overview)
 
 
 3. **Setup Data:**
